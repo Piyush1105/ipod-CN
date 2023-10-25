@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ipod-CN/static/css/main.2493cc11.css",
+    "main.css": "/ipod-CN/static/css/main.cabd6157.css",
     "main.js": "/ipod-CN/static/js/main.322ba87c.js",
     "static/media/Post Malone - White Iverson.mp3": "/ipod-CN/static/media/Post Malone - White Iverson.0c63ed238dd2ca8574e2.mp3",
     "static/media/Sigrid - High Five.mp3": "/ipod-CN/static/media/Sigrid - High Five.0e42a243a4923db61ce1.mp3",
@@ -19,11 +19,11 @@
     "static/media/settings.png": "/ipod-CN/static/media/settings.9bc43f25a527271f7965.png",
     "static/media/wallpaper2.jpg": "/ipod-CN/static/media/wallpaper2.f7623c91d1eafa558274.jpg",
     "index.html": "/ipod-CN/index.html",
-    "main.2493cc11.css.map": "/ipod-CN/static/css/main.2493cc11.css.map",
+    "main.cabd6157.css.map": "/ipod-CN/static/css/main.cabd6157.css.map",
     "main.322ba87c.js.map": "/ipod-CN/static/js/main.322ba87c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2493cc11.css",
+    "static/css/main.cabd6157.css",
     "static/js/main.322ba87c.js"
   ]
 }
